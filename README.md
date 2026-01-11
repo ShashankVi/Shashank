@@ -1,10 +1,12 @@
 👋 Hi, I’m Shashank D Vighneshi
-
+📥 shashankvighneshi03@gmail.com
+📶 7411356828
 🎓 B.E. in Artificial Intelligence & Data Science
 🤖 AI & Data Science Enthusiast | Machine Learning Practitioner
+🔗 https://www.linkedin.com/in/shashank-vighneshi-b41611326?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BODHLgUlSS02BQGa%2FkCmquQ%3D%3D
 📍 India
 
-I am a passionate and oriented in AI & Data Science graduate with knowledge in machine learning, data preprocessing, and real-world AI projects. I enjoy building intelligent systems, working with structured data, and applying AI techniques to solve practical problems.
+🛂 I am a passionate and oriented in AI & Data Science graduate with knowledge in machine learning, data preprocessing, and real-world AI projects. I enjoy building intelligent systems, working with structured data, and applying AI techniques to solve practical problems.
 
 🧠 Core Focus Areas
 
